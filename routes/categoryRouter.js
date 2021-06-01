@@ -14,3 +14,4 @@ router
   .put(auth, authAdmin, categoryCtrl.updateCategory)
 
 module.exports = router
+// auth, authAdmin,
